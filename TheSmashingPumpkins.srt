@@ -1,0 +1,16 @@
+1
+00:00:1,100 --> 00:00:3,000
+No. De alguna manera me gusta.
+
+2
+00:00:3,500 --> 00:00:5,000
+No puedo ayudar.
+
+3
+00:00:5,610 --> 00:00:7,000
+Estamos aquí con Butch Vig.
+
+4
+00:00:7,020 --> 00:00:9,500
+Butch, ¿qué tal estás? Estás produciendo
+lo nuevo de Smashing Pumpkins.
